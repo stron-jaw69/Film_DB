@@ -1,6 +1,7 @@
 # Film_DB
-COllection xv
-🎬 Film Recommendation System is an application using Python and PostgreSQL to generate recommendations for films and stores based on actual rental data. The system employs SQL queries and machine learning models to recommend movies, predict the most rented films, and suggest the stores where these films are most readily available.
+Collection xv
+
+🎬Film Recommendation System is an application using Python and PostgreSQL to generate recommendations for films and stores based on actual rental data. The system employs SQL queries and machine learning models to recommend movies, predict the most rented films, and suggest the stores where these films are most readily available.
 
 # Objectives 🎯
 - **Build a movie recommendation engine using data from a PostgreSQL database.**
